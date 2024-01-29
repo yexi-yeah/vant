@@ -196,6 +196,10 @@ module.exports = {
             title: '反馈组件',
             items: [
               {
+                path: 'floating-panel',
+                title: 'FloatingPanel 浮动面板',
+              },
+              {
                 path: 'action-sheet',
                 title: 'ActionSheet 动作面板',
               },

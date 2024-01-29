@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div class="van-tabs van-tabs--line">
+    <div class="van-tabs__wrap">
+      <div role="tablist" class="van-tabs__nav van-tabs__nav--line">
+        <div role="tab" aria-selected="true" class="van-tab van-tab--active"><span class="van-tab__text van-tab__text--ellipsis">基础用法</span></div>
+        <div role="tab" class="van-tab"><span class="van-tab__text van-tab__text--ellipsis">自定义锚点</span></div>
+        <div role="tab" class="van-tab"><span class="van-tab__text van-tab__text--ellipsis">仅头部拖拽</span></div>
+        <div class="van-tabs__line" style="transform: translateX(0px) translateX(-50%);"></div>
+      </div>
+    </div>
+    <div class="van-tabs__content">
+      <div role="tabpanel" class="van-tab__pane" style="">
+        <div class="van-floating-panel van-safe-area-bottom" style="height: 400px; transform: translateY(calc(100% + -100px)); transition: transform 0.3s cubic-bezier(0.18, 0.89, 0.32, 1.28);">
+          <div class="van-floating-panel__header">
+            <div class="van-floating-panel__header-bar"></div>
+          </div>
+          <div class="van-floating-panel__content">
+            <div class="van-cell-group van-hairline--top-bottom">
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>A</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>B</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>C</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>D</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>E</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>F</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>G</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>H</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>I</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>J</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>K</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>L</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>M</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>N</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>O</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>P</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>Q</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>R</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>S</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>T</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>U</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>V</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>W</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>X</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>Y</span></div>
+              </div>
+              <div class="van-cell van-cell--large">
+                <div class="van-cell__title"><span>Z</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div role="tabpanel" class="van-tab__pane" style="display: none;">
+        <!---->
+      </div>
+      <div role="tabpanel" class="van-tab__pane" style="display: none;">
+        <!---->
+      </div>
+    </div>
+  </div>
+</div>
+`;
